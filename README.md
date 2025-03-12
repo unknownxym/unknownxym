@@ -22,10 +22,10 @@
 <div align="center">
 
 ### 💻 Languages & Frameworks
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![Python](https://img.shields.io/badge/Python-Okay-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-Beginner-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-Beginner-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 
 ### 🔧 Development Environment
 [![VS Code](https://img.shields.io/badge/VS_Code-Power_User-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
@@ -61,14 +61,18 @@
 
 ## 🌟 Current Endeavors
 
-```javascript
-const currentFocus = {
-    development: ["Web Applications", "System Utilities"],
-    learning: ["Advanced JavaScript", "Reverse Engineering"],
-    collaboration: "Open to innovative projects",
-    interests: ["Security Research", "Tool Development"]
-};
-```
+- 💻 **Development Focus**
+  - Web Applications
+  - System Utilities
+- 📚 **Currently Learning**
+  - Advanced JavaScript
+  - Reverse Engineering
+- 🤝 **Open to Collaboration**
+  - Innovative Projects
+  - Tool Development
+- 🔍 **Areas of Interest**
+  - Security Research
+  - System Development
 
 ## 🤝 Let's Connect
 
