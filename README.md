@@ -28,16 +28,16 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 
 ### 🔧 Development Environment
-[![VS Code](https://img.shields.io/badge/VS_Code-Power_User-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-Professional-000000?style=for-the-badge&logo=pycharm&logoColor=white)](#)
-[![WebStorm](https://img.shields.io/badge/WebStorm-Advanced-00ACC1?style=for-the-badge&logo=webstorm&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-Proficient-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/VS_Code-Intermediate-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-Intermediate-000000?style=for-the-badge&logo=pycharm&logoColor=white)](#)
+[![WebStorm](https://img.shields.io/badge/WebStorm-Beginner-00ACC1?style=for-the-badge&logo=webstorm&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-Beginner-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 ### 🖥️ System & Tools
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-Expert-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-Advanced-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
-[![Android](https://img.shields.io/badge/Android-Skilled-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Enthusiast-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](#)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-Intermediate-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](#)
+[![Wireshark](https://img.shields.io/badge/Wireshark-Beginner-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android-Okay-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Beginner-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](#)
 
 </div>
 
@@ -55,7 +55,7 @@
 
 ### 📝 [Cursor AI Trial Reset](https://github.com/unknownxym/Cursor-ai-trial-reset)
 > A sophisticated utility for managing AI development environments
-- Safe
+- Safe🦺
 - Run every 2 days
 
 ## 🌟 Current Endeavors
