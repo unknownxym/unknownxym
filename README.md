@@ -17,7 +17,7 @@
 - 💻 Expertise in: **Minimal Coding**, **Cracks**, **Malware Analysis**
 - 📱 Contact: **Discord: user_893413**
 
-## 🛠️ Tech Arsenal
+## My knowledge🧠
 
 <div align="center">
 
