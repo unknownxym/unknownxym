@@ -9,13 +9,13 @@
 </div>
 
 ## 💫 About Me
+
 - 🌐 Currently working on: **Building a Next-Gen Website**
 - 🔓 Learning: **Cracking**, **Javascript**, and **Advanced Coding**
 - 🤝 Looking to collaborate: **Open to Any Interesting Projects**
 - 💡 Seeking help with: **Reverse Engineering Techniques**
 - 💻 Expertise in: **Minimal Coding**, **Cracks**, **Malware Analysis**
 - 📱 Contact: **Discord: user_893413**
-```
 
 ## 🛠️ Tech Arsenal
 
