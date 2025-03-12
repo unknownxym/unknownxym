@@ -9,16 +9,12 @@
 </div>
 
 ## 💫 About Me
-
-```python
-class ProfessionalSkid:
-    def __init__(self):
-        self.current_focus = "Building a Next-Gen Website 🌐"
-        self.learning = ["Cracking 🔓", "Javascript 📱", "Advanced Coding 💻"]
-        self.collaboration = "Open to Any Interesting Projects"
-        self.seeking_help = "Reverse Engineering Techniques"
-        self.expertise = ["Minimal Coding", "Cracks", "Malware Analysis"]
-        self.contact = "Discord: user_893413"
+Building a Next-Gen Website 🌐
+Cracking 🔓", "Javascript 📱", "Advanced Coding 💻
+Open to Any Interesting Projects
+Reverse Engineering Techniques
+Minimal Coding", "Cracks", "Malware Analysis
+Discord: user_893413"
 ```
 
 ## 🛠️ Tech Arsenal
