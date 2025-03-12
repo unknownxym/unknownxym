@@ -4,7 +4,7 @@ Professional skid
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **A website**
-- 🌱 I’m learning **Cracking**, **React**, and overall **Coding**
+- 🌱 I’m learning **Cracking**, **Javascript**, and overall **Coding**
 - 👯 I’m looking to collaborate on **whatever tbh**
 - 🤔 I’m looking for help with **Reverse engineering** 💡
 - 💬 Ask me about anything related to **Minimal coding**, **Cracks**, and **Malware**!
@@ -28,10 +28,10 @@ Professional skid
 
 #### Virtualization & Emulators
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30" height="30"/>
+<img src="https://img.shields.io/badge/Emulator-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="30" height="30"/>
 
 #### Networking Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="30" height="30"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" width="30" height="30"/>
 
 ---
 
