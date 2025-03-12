@@ -54,7 +54,7 @@ Skid
 
 ### 🌟 My Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=unknownxym&theme=github)
+![GitHub Snake](https://github.com/unknownxym/unknownxym/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
