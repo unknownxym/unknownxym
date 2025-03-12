@@ -53,8 +53,7 @@ Skid
 ---
 
 ### 🐍 GitHub Snake
-
-![Snake animation](https://github.com/unknownxym/unknownxym/blob/main/dist/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/<seu unknownxym>/<seu unknownxym>/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 
