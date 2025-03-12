@@ -125,10 +125,13 @@
 </div>
 
 ---
-
 <div align="center">
 
-[!snake animation](https://github.com/unknownxym/unknownxym/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unknownxym/unknownxym/blob/main/.github/workflows/snake.yml/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unknownxym/unknownxym/blob/main/.github/workflows/snake.yml/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/unknownxym/unknownxym/blob/main/.github/workflows/snake.yml/output/github-snake.svg" />
+</picture>
 
 </div>
 
