@@ -25,7 +25,7 @@
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## 🧠 My knowledge
 
 ### 💻 Languages & Frameworks
 [![Python](https://img.shields.io/badge/Python-Okay-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
