@@ -55,9 +55,8 @@
 
 ### 📝 [Cursor AI Trial Reset](https://github.com/unknownxym/Cursor-ai-trial-reset)
 > A sophisticated utility for managing AI development environments
-- 🔄 Seamless reset functionality
-- ⚡ Performance optimized
-- 🛠️ User-friendly interface
+- Safe
+- Run every 2 days
 
 ## 🌟 Current Endeavors
 
