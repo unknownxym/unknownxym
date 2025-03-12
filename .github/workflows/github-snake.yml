@@ -1,0 +1,23 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Update GitHub Snake
+        uses: Platane/snk@v1
+        with:
+          github_user: unknownxym
+          gif_out_path: dist/github-contribution-grid-snake.gif
