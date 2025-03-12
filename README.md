@@ -128,7 +128,7 @@
 
 <div align="center">
 
-![snake animation](https://github.com/unknownxym/unknownxym/blob/output/github-contribution-grid-snake2.svg)
+[!snake animation](https://github.com/unknownxym/unknownxym/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
 
