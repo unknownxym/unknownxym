@@ -105,6 +105,7 @@
 [![Discord](https://img.shields.io/badge/Discord-user__893413-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/user_893413)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unknownxym@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unknownxym)
+[!Reddit](https://img.shields.io/badge/Reddit-Follow_Me-7289DA?style=for-the-badge&logo=Reddit&logoColor=white)
 
 </div>
 
