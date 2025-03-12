@@ -106,6 +106,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unknownxym@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unknownxym)
 [![Reddit](https://img.shields.io/badge/Reddit-Follow_Me-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/unknownXym)
+[![Spotify](https://img.shields.io/badge/Spotify-Follow_Me-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31mcqlhoef7sxmjnhezdd5gu6huu)
+
 
 
 </div>
