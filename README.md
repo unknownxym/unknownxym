@@ -9,8 +9,6 @@ Skid
 - 🤔 I’m looking for help with **Reverse engineering** 💡
 - 💬 Ask me about anything related to **Minimal coding**, **Cracks**, and **Malware**!
 - 📫 How to reach me: Discord: user_893413
-- ⚡ Fun fact: I love solving problems and learning new technologies every day! 🤖
-
 ---
 
 ### 🛠️ Technologies & Tools
@@ -52,7 +50,7 @@ Skid
 
 ### 📷 My Projects
 
-- 📝 **[Project 1]([https://github.com/your-github-username/project1](https://github.com/unknownxym/Cursor-ai-trial-reset))**: A trial reset for the AI Cursor
+- 📝 **[Project 1](https://github.com/your-github-username/project1](https://github.com/unknownxym/Cursor-ai-trial-reset))**: A trial reset for the AI Cursor
 ---
 
 ### 🌟 My Contribution Graph
