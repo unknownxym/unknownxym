@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-user__893413-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/user_893413)
 [![Email](https://img.shields.io/badge/Email-unknownxym%40proton.me-blue?logo=protonmail&logoColor=white)](mailto:unknownxym@proton.me)
 
-</div>
+<div align="center">
 
 ## 💫 About Me
 
@@ -39,7 +39,7 @@
 [![Android](https://img.shields.io/badge/Android-Okay-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Beginner-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](#)
 
-</div>
+<div align="center">
 
 ## 🎯 Specialized Skills
 
@@ -62,7 +62,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknownxym&layout=compact&theme=radical" />
 
-</div>
+<div align="center">
 
 ## 🎯 Featured Projects
 
@@ -94,7 +94,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unknownxym@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unknownxym)
 
-</div>
+<div align="center">
 
 ## 🎮 Tech Stack Showcase
 
