@@ -1,37 +1,38 @@
-Professional skid
+# 🚀 Professional Skid
+
 ---
 
-### 🚀 About Me
+### 💻 About Me
 
-- 🔭 I’m currently working on **A website**
-- 🌱 I’m learning **Cracking**, **Javascript**, and overall **Coding**
-- 👯 I’m looking to collaborate on **whatever tbh**
-- 🤔 I’m looking for help with **Reverse engineering** 💡
-- 💬 Ask me about anything related to **Minimal coding**, **Cracks**, and **Malware**!
-- 📫 How to reach me: Discord: **user_893413**
+- 🔭 **Currently working on**: **A website** 🌐
+- 🌱 **Learning**: **Cracking**, **Javascript**, and **Coding**
+- 👯 **Looking to collaborate**: **Whatever tbh**
+- 🤔 **Looking for help with**: **Reverse engineering** 💡
+- 💬 **Ask me about**: **Minimal coding**, **Cracks**, and **Malware**!
+- 📫 **Reach me on**: Discord: **user_893413**
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-#### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
+#### 🌐 Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML" />
 
-#### Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30" height="30"/>
+#### 🧰 Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30" height="30" alt="VS Code" />
 
-#### IDEs
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="30" height="30"/>
+#### 🧑‍💻 IDEs
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="30" height="30" alt="PyCharm" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="30" height="30" alt="WebStorm" />
 
-#### Virtualization & Emulators
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="30" height="30"/>
-<img src="https://img.shields.io/badge/Emulator-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="30" height="30"/>
+#### 🖥️ Virtualization & Emulators
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="30" height="30" alt="VirtualBox" />
+<img src="https://img.shields.io/badge/Emulator-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="30" height="30" alt="Android Emulator" />
 
-#### Networking Tools
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" width="30" height="30"/>
+#### 🌐 Networking Tools
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" width="30" height="30" alt="Wireshark" />
 
 ---
 
@@ -45,7 +46,7 @@ Professional skid
 
 ### 📷 My Projects
 
-- 📝 **[Project 1](https://github.com/unknownxym/Cursor-ai-trial-reset)**: A trial reset for the AI Cursor
+- 📝 **[Cursor AI Trial Reset](https://github.com/unknownxym/Cursor-ai-trial-reset)**: A trial reset for the AI Cursor. 
 
 ---
 
@@ -55,23 +56,23 @@ Professional skid
 
 ### 👨‍💻 Connect with Me
 
-- 📧 Email: [UnknownXym](mailto:unknownxym@proton.me)
-- 📱 Discord: **user_893413**
+- 📧 **Email**: [UnknownXym](mailto:unknownxym@proton.me)
+- 📱 **Discord**: **user_893413**
 
 ---
 
 ### 💡 Some Tech I'm Using
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="30" height="30" alt="pycharm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="30" height="30" alt="webstorm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="css3 logo"  />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" width="30" height="30" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="30" height="30" alt="raspberrypi logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="30" height="30" alt="jetbrains logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30" height="30" alt="oracle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="30" height="30" alt="PyCharm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="30" height="30" alt="WebStorm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" width="30" height="30" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="30" height="30" alt="Raspberry Pi" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="30" height="30" alt="JetBrains" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30" height="30" alt="Oracle" />
 </div>
 
 ---
@@ -79,3 +80,5 @@ Professional skid
 ### 🔗 Links
 - [GitHub](https://github.com/unknownxym)
 - [Discord](https://discordapp.com/users/user_893413)
+
+---
