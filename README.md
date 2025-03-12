@@ -6,20 +6,26 @@
 [![Discord](https://img.shields.io/badge/Discord-user__893413-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/user_893413)
 [![Email](https://img.shields.io/badge/Email-unknownxym%40proton.me-blue?logo=protonmail&logoColor=white)](mailto:unknownxym@proton.me)
 
+</div>
+
 <div align="center">
 
 ## 💫 About Me
 
-- 🌐 Currently working on: **Building a Next-Gen Website**
-- 🔓 Learning: **Cracking**, **Javascript**, and **Advanced Coding**
-- 🤝 Looking to collaborate: **Open to Any Interesting Projects**
-- 💡 Seeking help with: **Reverse Engineering Techniques**
-- 💻 Expertise in: **Minimal Coding**, **Cracks**, **Malware Analysis**
-- 📱 Contact: **Discord: user_893413**
+<ul>
+  <li>🌐 Currently working on: <strong>Building a Next-Gen Website</strong></li>
+  <li>🔓 Learning: <strong>Cracking</strong>, <strong>Javascript</strong>, and <strong>Advanced Coding</strong></li>
+  <li>🤝 Looking to collaborate: <strong>Open to Any Interesting Projects</strong></li>
+  <li>💡 Seeking help with: <strong>Reverse Engineering Techniques</strong></li>
+  <li>💻 Expertise in: <strong>Minimal Coding</strong>, <strong>Cracks</strong>, <strong>Malware Analysis</strong></li>
+  <li>📱 Contact: <strong>Discord: user_893413</strong></li>
+</ul>
 
-## 🛠️ Tech Arsenal
+</div>
 
 <div align="center">
+
+## 🛠️ Tech Arsenal
 
 ### 💻 Languages & Frameworks
 [![Python](https://img.shields.io/badge/Python-Okay-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
@@ -39,6 +45,8 @@
 [![Android](https://img.shields.io/badge/Android-Okay-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Beginner-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](#)
 
+</div>
+
 <div align="center">
 
 ## 🎯 Specialized Skills
@@ -54,13 +62,17 @@
 [![System Cleanup](https://img.shields.io/badge/System_Cleanup-Expert-0078D4?style=for-the-badge)](#)
 [![Resource Management](https://img.shields.io/badge/Resource_Management-Skilled-FFA116?style=for-the-badge)](#)
 
-## 🐈‍⬛ GitHub Analytics
+</div>
 
 <div align="center">
+
+## 🐈‍⬛ GitHub Analytics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unknownxym&show_icons=true&count_private=true&hide=prs&theme=radical" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknownxym&layout=compact&theme=radical" />
+
+</div>
 
 <div align="center">
 
@@ -71,48 +83,54 @@
 - Safe
 - Run every 2 days
 
-## 🌟 Current Endeavors
-
-- 💻 **Development Focus**
-  - Web Applications
-  - System Utilities
-- 📚 **Currently Learning**
-  - Advanced JavaScript
-  - Reverse Engineering
-- 🤝 **Open to Collaboration**
-  - Innovative Projects
-  - Tool Development
-- 🔍 **Areas of Interest**
-  - Security Research
-  - System Development
-
-## 🤝 Let's Connect
+</div>
 
 <div align="center">
+
+## 🌟 Current Endeavors
+
+<ul>
+  <li>💻 <strong>Development Focus</strong>: Web Applications, System Utilities</li>
+  <li>📚 <strong>Currently Learning</strong>: Advanced JavaScript, Reverse Engineering</li>
+  <li>🤝 <strong>Open to Collaboration</strong>: Innovative Projects, Tool Development</li>
+  <li>🔍 <strong>Areas of Interest</strong>: Security Research, System Development</li>
+</ul>
+
+</div>
+
+<div align="center">
+
+## 🤝 Let's Connect
 
 [![Discord](https://img.shields.io/badge/Discord-user__893413-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/user_893413)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unknownxym@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unknownxym)
 
+</div>
+
 <div align="center">
 
 ## 🎮 Tech Stack Showcase
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" height="40" alt="WebStorm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" width="40" height="40" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40" alt="JetBrains" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" height="40" alt="WebStorm" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+<img src="https://cdn.simpleicons.org/android/3DDC84" width="40" height="40" alt="Android" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40" alt="JetBrains" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
+
 </div>
 
 ---
 
+<div align="center">
+
 ![snake animation](https://github.com/unknownxym/unknownxym/blob/output/github-contribution-grid-snake2.svg)
+
+</div>
 
 <div align="center">
 
