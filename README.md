@@ -107,7 +107,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unknownxym)
 [![Reddit](https://img.shields.io/badge/Reddit-Follow_Me-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/unknownXym)
 [![Spotify](https://img.shields.io/badge/Spotify-Follow_Me-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31mcqlhoef7sxmjnhezdd5gu6huu)
-
+[![Steam](https://img.shields.io/badge/Steam-ADD_ME-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199443679907/)
 
 
 </div>
