@@ -17,7 +17,7 @@
 - 💻 Expertise in: **Minimal Coding**, **Cracks**, **Malware Analysis**
 - 📱 Contact: **Discord: user_893413**
 
-## My knowledge🧠
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -41,7 +41,19 @@
 
 </div>
 
-## 📊 GitHub Analytics
+## 🎯 Specialized Skills
+
+### 🛡️ Security & Privacy
+[![Software Verification](https://img.shields.io/badge/Software_Verification-Advanced-2ea44f?style=for-the-badge)](#)
+[![Privacy Enhancement](https://img.shields.io/badge/Privacy_Solutions-Skilled-9146FF?style=for-the-badge)](#)
+[![System Security](https://img.shields.io/badge/System_Security-Proficient-FF0000?style=for-the-badge)](#)
+
+### ⚡ System Optimization
+[![Performance Tuning](https://img.shields.io/badge/Performance_Tuning-Advanced-00C7B7?style=for-the-badge)](#)
+[![System Cleanup](https://img.shields.io/badge/System_Cleanup-Expert-0078D4?style=for-the-badge)](#)
+[![Resource Management](https://img.shields.io/badge/Resource_Management-Skilled-FFA116?style=for-the-badge)](#)
+
+## �� GitHub Analytics
 
 <div align="center">
 
@@ -55,7 +67,7 @@
 
 ### 📝 [Cursor AI Trial Reset](https://github.com/unknownxym/Cursor-ai-trial-reset)
 > A sophisticated utility for managing AI development environments
-- Safe🦺
+- Safe
 - Run every 2 days
 
 ## 🌟 Current Endeavors
