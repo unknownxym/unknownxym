@@ -15,7 +15,9 @@ Professional skid
 ### 🛠️ Technologies & Tools
 
 #### Languages
-![Python](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />)
+![Python](
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          )
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 #### Tools
