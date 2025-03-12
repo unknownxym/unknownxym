@@ -15,23 +15,23 @@ Professional skid
 ### 🛠️ Technologies & Tools
 
 #### Languages
-![Python](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
 
 #### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg)
 
 #### IDEs
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![PyCharm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg)
+![WebStorm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg)
 
 #### Virtualization & Emulators
-![VirtualBox](https://img.shields.io/badge/VirtualBox-1E1E1E?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Android Emulator](https://img.shields.io/badge/Android_Emulator-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![VirtualBox](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg)
+![Android Emulator](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg)
 
 #### Networking Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Wireshark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg)
 
 ---
 
