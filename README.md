@@ -51,8 +51,6 @@ Skid
 
 - 📝 **[Project 1](https://github.com/your-github-username/project1](https://github.com/unknownxym/Cursor-ai-trial-reset))**: A trial reset for the AI Cursor
 ---
-
-### 🐍 GitHub Snake
 ![snake animation](https://github.com/<seu unknownxym>/<seu unknownxym>/blob/output/github-contribution-grid-snake2.svg)
 
 ---
