@@ -124,14 +124,6 @@
 
 </div>
 
----
-<div align="center">
-<img src="https://raw.githubusercontent.com/Unknownxym/Unknownxym/output/snake.svg" alt="Snake animation" />
-
-###
-
-</div>
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=unknownxym&color=blueviolet&style=flat-square)
