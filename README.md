@@ -1,9 +1,9 @@
-# 🚀 Professional Skid
+# Skid
 
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/unknownxym?style=social)](https://github.com/unknownxym)
-[![Discord](https://img.shields.io/badge/Discord-user__893413-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/user_893413)
+[![Discord](https://img.shields.io/badge/Discord-Xymdaskid-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/xymdaskid)
 [![Email](https://img.shields.io/badge/Email-unknownxym%40proton.me-blue?logo=protonmail&logoColor=white)](mailto:unknownxym@proton.me)
 
 </div>
