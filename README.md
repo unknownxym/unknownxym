@@ -78,7 +78,7 @@
 
 ## 🎯 Featured Projects
 
-### 📝 [Cursor AI Trial Reset](https://github.com/unknownxym/Cursor-ai-trial-reset)
+### 📝 [Cursor AI Trial Reset PATCHED](https://github.com/unknownxym/Cursor-ai-trial-reset)
 > A sophisticated utility for managing AI development environments
 - Safe
 - Run every 2 days
