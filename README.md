@@ -102,7 +102,7 @@
 
 ## 🤝 Let's Connect
 
-[![Discord](https://img.shields.io/badge/Discord-user__893413-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/user_893413)
+[![Discord](https://img.shields.io/badge/Discord-Xymdaskid-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/xymdaskid)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unknownxym@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unknownxym)
 [![Reddit](https://img.shields.io/badge/Reddit-Follow_Me-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/unknownXym)
